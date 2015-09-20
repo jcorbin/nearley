@@ -1,0 +1,12 @@
+- superficial cleanups and ground laying
+  - regen script
+  - thru utiity hoisting (joiner, arrconcat, uniquer)
+- reflowing of Compile
+- refactor build path, thru buildRule split
+- fragmentation of buildToken
+- flow tune buildToken
+- explicate self referentiality
+- decouple rule emission from result mutation
+- explicate structure emit, hoist builders
+- rename ebnf rules
+- deduping
